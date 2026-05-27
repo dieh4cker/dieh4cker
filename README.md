@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DieH4cker</h1>
-<h3 align="center">🌊 Vibe Coder | 🐍 Python Programmer | 🛡️ Aspiring Penetration Tester 📚 2nd Year Student at Govt. Polytechnic College 🔍 Exploring the worlds of Cybersecurity & Code 🚀 Building, Breaking, and Learning — One Project at a Time</h3>
+<h3 align="center"> 🐍 Python Programmer | 🛡️ Aspiring Penetration Tester 📚 2nd Year Student at Govt. Polytechnic College 🔍 Exploring the worlds of Cybersecurity & Code 🚀 Building, Breaking, and Learning — One Project at a Time</h3>
 
 
 - 🌱 I’m currently learning **Python**
