@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DieH4cker</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center"> 🐍 Python Programmer | 🛡️ Aspiring Penetration Tester 📚 2nd Year Student at Govt. Polytechnic College 🔍 Exploring the worlds of Cybersecurity & Code 🚀 Building, Breaking, and Learning — One Project at a Time</h3>
 
 
